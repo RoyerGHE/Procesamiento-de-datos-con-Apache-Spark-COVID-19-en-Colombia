@@ -47,6 +47,7 @@ wget -O /home/vboxuser/casos_covid_1M.csv \ 'https://www.datos.gov.co/resource/g
 #Revisión del nombre de las columnas 
 head -n 1 /home/vboxuser/casos_covid_1M.csv
 ```
+### Punto 4:
 
 
 
